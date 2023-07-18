@@ -67,6 +67,37 @@ body{
 
 }
 /* sponsors container ends */
+/* product container starts */
+.descriptions-heading{
+    margin: 0 auto;
+}
+.product-container{
+   
+}
+.description-heading{
+    margin-left: 10px;
+}
+.price{
+    margin-left: 10px;
+    margin-bottom: -20px;
+}
+.card{
+    width: 320px;
+    height: 450px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);
+}
+.ratings p{
+    margin-left: 10px;
+}
+.img-description{
+    margin-left: 10px; 
+}
+.ratings{
+    display: flex;
+}
+/* product container ends */
 /* media queri starts */
 @media screen and (max-width: 576px) {
     .nav-container{
