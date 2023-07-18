@@ -35,7 +35,10 @@ body{
         margin-top: 40px;
 }
 .banner-img{
-    background:url();
+    background-image:url("../images/circle.svg");
+    /* background-color: red; */
+    background-size:cover ;
+    background-position: center center;
 }
 .banner-heading{
     color: #3A3A3A;
